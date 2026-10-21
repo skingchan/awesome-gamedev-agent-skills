@@ -1,4 +1,0 @@
-interface:
-  display_name: "AI Long-Term Tutor"
-  short_description: "Interactive long-term courses with assessment and progress"
-  default_prompt: "Use $ai-long-term-tutor to diagnose my starting level, design a staged course, and teach one lesson interactively."
